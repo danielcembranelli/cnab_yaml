@@ -1,5 +1,5 @@
 {
-    "name": "andreseko/cnab_yaml",
+    "name": "danielcembranelli/cnab_yaml",
     "type": "library",
     "description": "Especificação do formato Cnab240 e Cnab400 traduzida para Yaml",
     "keywords": ["boleto", "remessa", "retorno", "cnab", "cnab240", "cnab400", "edi", "yaml"],
@@ -20,6 +20,10 @@
         {
             "name": "Wemerson Januario",
             "email": "wemerson.januario@gmail.com"
+        },
+        {
+            "name": "Daniel Cembranelli",
+            "email": "daniel@cembranelli.com.br"
         }
     ],
     "require": {},
