@@ -23,3 +23,6 @@ modalidade_carteira:
 nosso_numero:
   pos: [43, 57]
   picture: '9(15)'
+prazo_baixa:
+  pos: [225, 227]
+  picture: 'X(3)'
