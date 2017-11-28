@@ -113,7 +113,7 @@ valor_tarifa:
 
 identificacao_rejeicao:
   pos: [214, 223]
-  picture: 'X(10)'
+  picture: '9(10)'
 
 uso_exclusivo_febraban:
   pos: [224, 240]

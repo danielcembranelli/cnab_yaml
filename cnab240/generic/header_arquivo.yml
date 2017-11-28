@@ -9,7 +9,7 @@ codigo_banco:
   picture: '9(3)'
 
 lote_servico:
-  # Se registro for Header do Arquivo = '0000'
+  # Se registro for Header do Arquivo = '0000' 
   pos: [4, 7]
   picture: '9(4)'
   default: '0000'
