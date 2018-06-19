@@ -41,5 +41,12 @@ nosso_numero:
   # relacionamento.
   # Obs: Nosso Número Sem Registro com 16 posições (arquivo Retorno) – posições 106 a 130 do
   # Segmento T (ver Nota G072).
-  pos: [38,57]
-  picture: 'X(20)'
+  pos: [38,52]
+  picture: '9(15)'
+
+reservador_ns:
+  pos: [53,57]
+  picture: 'X(5)'
+  default: ''
+
+  
